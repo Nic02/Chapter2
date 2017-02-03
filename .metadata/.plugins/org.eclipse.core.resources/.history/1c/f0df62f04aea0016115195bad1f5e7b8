@@ -1,0 +1,30 @@
+/**
+ * 
+ */
+package youDoit;
+import java.util.Scanner;
+/**
+ * @author NH133778
+ *
+ */
+public class ParadiseInfo2 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) 
+	{
+		// TODO Auto-generated method stub
+double price;
+double discount;
+double savings;
+Scanner keyboard = new Scanner(System.in);
+
+System.out.print("Enter cutoff price for discount >> ");
+price = keyboard.nextDouble();
+System.out.print("Enter discount rate as a whole number >> ");
+discount = keyboard.nextDouble();
+
+	}
+
+}

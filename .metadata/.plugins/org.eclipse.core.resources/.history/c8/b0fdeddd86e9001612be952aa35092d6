@@ -1,0 +1,27 @@
+/**
+ * 
+ */
+package methodConstruction;
+
+/**
+ * @author nh133778
+ *
+ */
+public class page132 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) 
+	displayAddress();
+	System.out.println("Fist Java application");
+	
+	}
+
+	public static void displayAddress() 
+	{
+		// TODO Auto-generated method stub
+		
+	}
+
+}
